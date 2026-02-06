@@ -1,4 +1,4 @@
-// Simple Logout Function
+
 function logout(username) {
   // Validate input
   if (!username) {
@@ -25,3 +25,4 @@ console.log(logout('user1'));
 console.log(logout(''));
 
 module.exports = logout;
+

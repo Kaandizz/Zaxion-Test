@@ -1,4 +1,4 @@
-// Advanced Login System
+
 const crypto = require('crypto');
 
 // Session storage
