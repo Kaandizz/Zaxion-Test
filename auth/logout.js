@@ -1,3 +1,4 @@
+//testing
 
 function logout(username) {
   // Validate input
