@@ -1,4 +1,4 @@
-//Overrriden Bug EMERGENCY_PRODUCTION_FIX
+//Overrriden Enter for Done and Shift+Enter for New Line
 
 function logout(username) {
   // Validate input
