@@ -1,5 +1,5 @@
 //Overrriden Enter for Done and Shift+Enter for New Line
-//before moving to the Phase 7 Zaxion.
+//before moving to the 
 function logout(username) {
   // Validate input
   if (!username) {
