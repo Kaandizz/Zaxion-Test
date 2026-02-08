@@ -1,5 +1,7 @@
 //Overrriden Enter for Done and Shift+Enter for New Line
 //before moving to the 
+
+//Solving the probelm terminal problem of the Zaxion.
 function logout(username) {
   // Validate input
   if (!username) {
