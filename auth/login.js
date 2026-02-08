@@ -1,4 +1,4 @@
-//Testing the Zaxion after CI stregthening and security hardening.
+//Testing the Zaxion after CI stregthening and security hardening, this is the login module with enhanced features and security measures.
 
 const crypto = require('crypto');
 
