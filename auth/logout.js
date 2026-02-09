@@ -1,7 +1,6 @@
 //Overrriden Enter for Done and Shift+Enter for New Line
 //before moving to the next module, let's implement the logout functionality for the Zaxion, ensuring that users can securely end their sessions and protect their accounts from unauthorized access.
 
-//Solving the probelm terminal problem of the Zaxion.
 function logout(username) {
   // Validate input
   if (!username) {
