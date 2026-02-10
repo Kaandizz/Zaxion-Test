@@ -1,6 +1,5 @@
-//Testing the Zaxion after CI stregthening and security hardening, this is the login module with enhanced features and security measures.
-//Zaxion Login Module with Enhanced Security and Features
 
+//rechecking the Zaxion login module to ensure that it is secure, efficient, and user-friendly. This includes validating user credentials, managing sessions, and implementing security measures to protect against common vulnerabilities.
 const crypto = require('crypto');
 
 // Session storage
